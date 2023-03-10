@@ -3,7 +3,7 @@
 name = ""
 state_id = ""
 
-class city(BaseModel):
+class City(BaseModel):
     """This class manages city objects."""
 
     def __init__(self, *args, **kwargs):
