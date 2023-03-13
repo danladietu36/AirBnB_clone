@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 '''Initializes the package'''
-from models.base_model import BaseModel
+# from models.base_model import BaseModel
 from models.engine import file_storage
 
 
