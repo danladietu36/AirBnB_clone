@@ -1,4 +1,6 @@
 AirBnB clone - Web static
 HTML
-CSS
-Front-end
+CSS:
+    lnine CSS
+    Internal CSS
+    External CSS
